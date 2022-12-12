@@ -1,1 +1,1 @@
-<img src="https://github.com/savio-mb/Mapty/blob/main/assets/Bankist.png"/>
+<img src="https://github.com/savio-mb/Bankist/blob/main/src/Bankist.png"/>
